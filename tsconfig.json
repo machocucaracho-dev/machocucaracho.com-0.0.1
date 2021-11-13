@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "machocucaracho-0.0.1/Server/Pusher.js"  ]
 }
